@@ -1,0 +1,15 @@
+Question: Describe a challenge you faced and how you handled it.
+
+Transcript:  Name is Samit and want to become a software developer in the future.
+
+Scores: {
+  "empathy": 20,
+  "articulation": 10,
+  "grammar": 40,
+  "structure": 10
+}
+
+Overall: 20
+WPM: 130
+Fillers: 0
+Silence Gaps: 0

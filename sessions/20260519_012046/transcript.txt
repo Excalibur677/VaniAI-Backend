@@ -1,0 +1,15 @@
+Question: Where do you see yourself in 5 years?
+
+Transcript:  I think I am very qualified for your. For this role in your organization, so I think you should have.
+
+Scores: {
+  "empathy": 20,
+  "articulation": 30,
+  "grammar": 30,
+  "structure": 20
+}
+
+Overall: 25
+WPM: 130
+Fillers: 0
+Silence Gaps: 0

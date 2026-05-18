@@ -1,0 +1,15 @@
+Question: Why should we hire you for this role?
+
+Transcript:  so I think I haven't faced any challenge yet in any of my project
+
+Scores: {
+  "empathy": 30,
+  "articulation": 40,
+  "grammar": 40,
+  "structure": 30
+}
+
+Overall: 35
+WPM: 130
+Fillers: 0
+Silence Gaps: 0
